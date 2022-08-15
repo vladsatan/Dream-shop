@@ -1,0 +1,11 @@
+[
+    {"id":"1", "name": "iPhone 7", "color":"black", "price": "280", "articul": "11154", "url": "./apple7.jpg"},
+    {"id":"2", "name": "iPhone 11 Pro Max", "color":"silver", "price": "670", "articul": "11178", "url": "./iphone-11-pro-max.jpeg"},
+    {"id":"3", "name": "iPhone 13 Pro", "color":"blue", "price": "2000", "articul": "11207", "url": "./iPhone-13-pro.jpeg"},
+    {"id":"4", "name": "MacBook Pro 13", "color":"gray", "price": "1550", "articul": "22134", "url": "./MacBook-13-pro.jpeg"},
+    {"id":"5", "name": "MacBook Pro 15", "color":"silver", "price": "1700", "articul": "22145", "url": "./MacBook-15-Pro.jpeg"},
+    {"id":"6", "name": "MacBook Pro 16", "color":"silver", "price": "4230", "articul": "22159", "url": "./MacBook-16-Pro.jpeg"},
+    {"id":"7", "name": "Apple iPad Air", "color":"pink", "price": "750", "articul": "33114", "url": "./iPad-Air.jpeg"},
+    {"id":"8", "name": "Apple iPad Mini", "color":"gray", "price": "920", "articul": "33144", "url": "./iPad-mini.jpeg"},
+    {"id":"9", "name": "Apple iPad Pro 11", "color":"gray", "price": "2230", "articul": "11198", "url": "./iPad-pro11.jpeg"}
+]

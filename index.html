@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Dream-Shop</title>
+</head>
+<body id="root">
+     
+    <header>
+        <div class="main-container">
+           <a href="./index.html"><h1 class="shop_title">DREAM-SHOP</h1></a> 
+            <div class="menu">
+                
+               <div class="basket">
+               <a href="#"><img src="./basket.svg" alt="">
+               </a> 
+               </div>
+
+               <div class="chosen">
+               <a href="#" class="chosen"> <img src="./star.svg" alt="" width="30px" height="30px">
+               <p class="chosen-text">Избранное</p>
+            </a>
+               </div>
+                
+            </div>
+        </div>
+    </header>
+
+    <div class="main-container">
+        <div class="search">
+            <input type="text" name="name" id="name" placeholder="Введите название товара">
+            <input type="text" name="price" id="price" placeholder="Цена от">
+            <button class="search-button">Поиск</button>
+            
+            
+        </div>
+    </div>
+    
+
+    <div class="container"></div>
+
+
+    <div class="popup">
+        <div class="popup-window">
+            <div class="popup-header">
+                <div class="popup-title">
+                    <img src="./basket.svg" alt="">
+                    <h2>Корзина</h2>
+                    <img src="./basket.svg" alt="" class="logo-transform">
+                </div>
+                <div class="close">x</div>
+            </div>  
+
+
+          <div class="popupfooter"><button class="buy">Оформить заказ</button></div>
+
+        </div>
+    </div>
+
+    <footer>
+        <div class="footer-container">
+            <h1 class="shop_title">DREAM-SHOP</h1>
+        </div>
+        
+    </footer>
+   
+    <script type="module" src="./main.js"></script>
+</body>
+</html>
